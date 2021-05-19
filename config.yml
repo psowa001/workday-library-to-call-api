@@ -1,0 +1,4 @@
+login: login
+password: password
+server_url: api_url
+login_url: token_gen_url
